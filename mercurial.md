@@ -1,3 +1,3 @@
 # VCS
 mercurial
-mercurial ir pilnīgi par brīvu
+ir pilnīgi par brīvu
